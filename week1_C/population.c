@@ -39,5 +39,7 @@ int main(void)
     }
 
     // TODO: Print number of years
-    printf("Number of years to achieve population of %i llamas starting from %i llamas is - %i years\n", end_pop, start_pop, n);
+    // printf("Number of years to achieve population of %i llamas starting from %i llamas is - %i years\n", end_pop, start_pop, n); - not accepted via check50
+
+    printf("Years: %i\n", n);
 }
